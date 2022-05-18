@@ -11,7 +11,7 @@
     - Security analysis
 - 🌱 I’m currently learning ...
   - Fullstack Development with KnowledgeHut
-    - Linux, Git, React, Node.JS
+    - Linux, Git, React, Node.JS, MongoDB
   - Dynamics 365 toolkit
     - Dynamics 365, JavaScript, Azure 
 - 💞️ I’m looking to collaborate on ...
